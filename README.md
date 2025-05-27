@@ -2,6 +2,14 @@
 
 Este projeto foi desenvolvido como parte da disciplina de API Development do MBA em Engenharia de Software da Faculdade Impacta. Trata-se de uma aplicação NestJS que implementa uma API RESTful para gerenciamento completo de usuários, demonstrando os conceitos e práticas aprendidos durante o curso.
 
+## Grupo
+- Filipe de Freitas Monteiro - filipe.monteiro@aluno.impacta.com.br
+- Gabriel Martins Paz - gabriel.mpaz@aluno.faculdadeimpacta.com.b
+- João Victor Soares Braga - joao.soares@aluno.faculdadeimpacta.com.br
+- Marcelo Almeida Josef Kubart - marcelo.kubart@aluno.faculdadeimpacta.com.br
+- Paulo Cesar Silva Cruz da Hora - paulo.hora@aluno.faculdadeimpacta.com.br
+- Yasmin Fermino de Andrade Silva - yasmin.fermino@aluno.faculdadeimpacta.com.br
+
 ## Funcionalidades
 
 - Criar novos usuários
@@ -54,6 +62,3 @@ npm run test
 ## Licença
 
 Este projeto está licenciado sob a Licença MIT.
-
-## Alunos
-Marcelo Almeida Josef Kubart
