@@ -27,3 +27,11 @@ Content-Type: application/json
   "name": "Updated User",
   "email": "updated@example.com"
 }
+
+### 7
+PATCH http://localhost:3000/users/3
+Content-Type: application/json
+
+{
+  "name": "Partially Updated User"
+}
