@@ -22,7 +22,7 @@ Este projeto foi desenvolvido como parte da disciplina de API Development do MBA
 
 1. Clone o repositório:
    ```bash
-   git clone <repository-url>
+   git clone https://github.com/marcelokubart/api-atividade-users users-api
    ```
 
 2. Navegue até o diretório do projeto:
@@ -42,6 +42,11 @@ Para iniciar a aplicação, execute o seguinte comando:
 npm run start
 ```
 
+Para iniciar a aplicação em modo de desenvolvimento, execute o seguinte comando:
+```bash
+npm run start:dev
+```
+
 A aplicação estará rodando em `http://localhost:3000`.
 
 ## Endpoints da API
@@ -50,6 +55,7 @@ A aplicação estará rodando em `http://localhost:3000`.
 - `GET /users/:id` - Recuperar um usuário por ID
 - `POST /users` - Criar um novo usuário
 - `PUT /users/:id` - Atualizar um usuário existente
+- `PATCH /users/:id` - Atualizar parcialmente um usuário existente
 - `DELETE /users/:id` - Excluir um usuário
 
 ## Testes
