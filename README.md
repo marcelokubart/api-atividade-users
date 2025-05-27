@@ -9,7 +9,7 @@ Este projeto foi desenvolvido como parte da disciplina de API Development do MBA
 - Marcelo Almeida Josef Kubart - marcelo.kubart@aluno.faculdadeimpacta.com.br
 - Paulo Cesar Silva Cruz da Hora - paulo.hora@aluno.faculdadeimpacta.com.br
 - Yasmin Fermino de Andrade Silva - yasmin.fermino@aluno.faculdadeimpacta.com.br
-
+ 
 ## Funcionalidades
 
 - Criar novos usuários
